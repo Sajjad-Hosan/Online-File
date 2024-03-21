@@ -1,0 +1,74 @@
+    {
+      name: "Alice Johnson",
+      username: "alice_j",
+      email: "alice.j@example.com",
+      phone: "+12345678901",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "Bob Smith",
+      username: "bob_s",
+      email: "bob.smith@example.com",
+      phone: "+19876543210",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "Charlie Brown",
+      username: "charlie_b",
+      email: "charlie.b@example.com",
+      phone: "+15551234567",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "Emma Watson",
+      username: "emma_w",
+      email: "emma.w@example.com",
+      phone: "+14155559999",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "David Miller",
+      username: "david_m",
+      email: "david.m@example.com",
+      phone: "+13451234567",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "Olivia Wilson",
+      username: "olivia_w",
+      email: "olivia.w@example.com",
+      phone: "+12025551234",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "James Brown",
+      username: "james_b",
+      email: "james.b@example.com",
+      phone: "+16501112222",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "Sophia Martinez",
+      username: "sophia_m",
+      email: "sophia.m@example.com",
+      phone: "+13334445555",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "Michael Johnson",
+      username: "michael_j",
+      email: "michael.j@example.com",
+      phone: "+12015556666",
+      img: "https://via.placeholder.com/150",
+    },
+    {
+      name: "Ella Thomas",
+      username: "ella_t",
+      email: "ella.t@example.com",
+      phone: "+12123334444",
+      img: "https://via.placeholder.com/150",
+    },
+  ];
+  
+  export default userData;
+  
